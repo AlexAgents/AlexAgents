@@ -1,7 +1,7 @@
 <img src="banner.jpg" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=4FC3F7&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+Alexey+%F0%9F%91%8B;Python+Developer;Occasional+C%2B%2B+Masochist;JS+Script+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=4FC3F7&center=true&vCenter=true&width=640&lines=Hey%2C+I'm+AlexeyQ+%F0%9F%91%8B;Python+Developer;C%2B%2B+Masochist;JS+Script+Tryer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -41,7 +41,7 @@ class Developer:
 | `Genesis` | ♾️ | R&D |
 | `MAYHEM` | 💥 | R&D |
 | `CosmaLingua` | 👅 | UN Task |
-| `ELYSIUM-SCAN` | 🔬 | AI + Health Experimen |
+| `ELYSIUM-SCAN` | 🔬 | AI + Health Experiment |
 | `NEURO-MERGE` | 🧪 | B + AI Experiment |
 | `DIFF-QR` | 🎨| QR Art Gen |
 | `CRYPT-SIGHT` | 📊 | Token Analyzer |
@@ -70,12 +70,12 @@ class Developer:
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexAgents&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=e2e8f0&icon_color=2dd4bf&border_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexAgents&hide_border=true&background=0d1117&border=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=2dd4bf&currStreakNum=4FC3F7&currStreakLabel=4FC3F7&sideNums=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexAgents&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=e2e8f0&icon_color=2dd4bf&border_color=0d1117&v=2" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AlexAgents&hide_border=true&background=0d1117&border=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=2dd4bf&currStreakNum=4FC3F7&currStreakLabel=4FC3F7&sideNums=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAgents&layout=compact&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=e2e8f0&border_color=0d1117" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAgents&layout=compact&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=e2e8f0&border_color=0d1117&v=2" width="40%" />
 </p>
 
 ---
