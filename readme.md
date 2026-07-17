@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Userscripts-000000?style=for-the-badge&logo=tampermonkey&logoColor=white" />
 </p>
 
----
-
 ## 🧠 About Me
 
 ```python
@@ -27,8 +25,6 @@ class Developer:
     def current_focus(self):
         return "Building things that shouldn't exist yet"
 ```
-
----
 
 ## 🚀 2025–2030 · Project Codenames
 
@@ -65,28 +61,22 @@ class Developer:
 | `GEN-v3` | 💡 | Adaptive prompt-gen, new concept |
 | `CHANGE-UR-IDENTITY` | 👁️ | Face "region" changer |
 
----
-
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexAgents&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=e2e8f0&icon_color=2dd4bf&border_color=0d1117&v=2" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AlexAgents&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=e2e8f0&icon_color=2dd4bf&border_color=0d1117" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=AlexAgents&hide_border=true&background=0d1117&border=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=2dd4bf&currStreakNum=4FC3F7&currStreakLabel=4FC3F7&sideNums=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAgents&layout=compact&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=e2e8f0&border_color=0d1117&v=2" width="40%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexAgents&layout=compact&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=e2e8f0&border_color=0d1117" width="40%" />
 </p>
-
----
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlexAgents/AlexAgents/output/github-snake-dark.svg" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexAgents&color=4FC3F7&style=flat-square" />
